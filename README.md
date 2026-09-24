@@ -1,31 +1,3 @@
-<!DOCTYPE html>
-<html lang="es">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Política de Privacidad — Pokémon Edición Sombría</title>
-  <style>
-    body {
-      font-family: Arial, Helvetica, sans-serif;
-      line-height: 1.6;
-      max-width: 800px;
-      margin: 0 auto;
-      padding: 40px 20px;
-      color: #222;
-      background: #fff;
-    }
-    h1 { margin-bottom: 8px; }
-    h2 { margin-top: 32px; }
-    .date { color: #666; }
-    footer {
-      margin-top: 50px;
-      padding-top: 20px;
-      border-top: 1px solid #ddd;
-      color: #666;
-      font-size: 0.9em;
-    }
-  </style>
-</head>
 <body>
   <h1>Política de Privacidad</h1>
   <p class="date"><strong>Pokémon Edición Sombría</strong> — Última actualización: 24 de septiembre de 2026</p>
