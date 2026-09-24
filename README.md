@@ -1,6 +1,6 @@
 <body>
   <h1>Política de Privacidad</h1>
-  <p class="date"><strong>Pokémon Edición Sombría</strong> — Última actualización: 24 de septiembre de 2026</p>
+ <strong>Pokémon Edición Sombría</strong> — Última actualización: 24 de septiembre de 2026</p>
 
   <p>Pokémon Edición Sombría es un proyecto creado por fans y no oficial de Pokémon.</p>
 
